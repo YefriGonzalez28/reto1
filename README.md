@@ -6,8 +6,6 @@
    <img src="https://img.shields.io/badge/status-finalizado-verde">
    </p>
 
-*[Índice](#índice)
-
 <h2 align="center"> Descripcion del proyecto </h2>
 <p align="left">el siguiente proyecto es un Encriptador y desencriptador en el cual el usuario puede ingresar un mensaje y encriptarlo o desencriptarlo segun sea el caso, ademas  puede copiar el mensaje encriptado.
 
