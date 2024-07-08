@@ -1,7 +1,7 @@
 # reto1
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](#Título-e-imagen-de-portada)<h1 align="center"> reto 1 Desencriptador </h1>
 
 *[Insignias](#insignias)
 
