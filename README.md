@@ -3,7 +3,7 @@
 <h1 align="center"> reto 1 Desencriptador </h1>
 
 <p align="left">
-   <img src="([https://img.shields.io/badge/status-finalizado-verde])">
+   <img src="https://img.shields.io/badge/status-finalizado-verde">
    </p>
 
 *[Índice](#índice)
