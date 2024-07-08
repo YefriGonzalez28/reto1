@@ -11,17 +11,9 @@
 <h2 align="center"> Descripcion del proyecto </h2>
 <p align="left">el siguiente proyecto es un Encriptador y desencriptador en el cual el usuario puede ingresar un mensaje y encriptarlo o desencriptarlo segun sea el caso, ademas  puede copiar el mensaje encriptado.
 
-
-*[Acceso al proyecto](#acceso-proyecto)
-![image](https://github.com/YefriGonzalez28/reto1/assets/171637491/305ac7c9-7cbb-4cf5-9cd6-81f222669e63)
+![image](https://github.com/YefriGonzalez28/reto1/assets/171637491/e612c765-7dd9-41a6-bb27-28d24b3ec2ef)
 
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+Desarrollado por: Yefri Andrey Gonzalez Acevedo
 
-*[Personas Contribuyentes](#personas-contribuyentes)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
