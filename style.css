@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&effect=outline&display=swap');
+body {
+  
+    background-color: green; /* For browsers that do not support gradients */
+    background-image: linear-gradient(Springgreen,yellow,Forestgreen);
+    color:white;
+   
+}
+.presentacion__contenido__Titulo{
+    display: flex;
+    align-items: center;
+    margin:0%;
+    justify-content: center;
+    font-size: 49px;
+    font-family: "Irish Grover", system-ui;
+    font-style: bold;
+    text-shadow: 2px 5px 5px black;
+    
+}
+
+.presentacion{
+    display: flex;
+    align-items: center;
+    margin:8%;
+    justify-content: space-between;
+}
+
+.presentacion__contenido{
+    width: 1440;
+}
+
+
+.presentacion__contenido__error{
+    background-color: rgb(30, 255, 0);
+    color: white;
+    border-color: yellow;
+    border-style: double;
+    border-radius: 5px;
+    border-width: medium;
+    border-bottom-color: green;
+    font-size: 20px;
+    font-family: "Irish Grover", system-ui;
+    font-style: bold;
+    text-shadow: 2px 5px 5px black;
+    
+}
+.presentacion__contenido__textocopiado{
+    font-size: 27px;
+    font-family: "Irish Grover", system-ui;
+    font-style: bold;
+    text-shadow: 2px 2px 5px black;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 5px;
+    border-width: medium;
+    
+}
+.presentacion__contenido__Text{
+    font-size: 27px;
+    font-family: "Irish Grover", system-ui;
+    font-style: bold;
+    color:  black;
+}
+
+.presentacion__contenido__Parrafo{
+    font-size: 20px;
+    font-family: "Irish Grover", system-ui;
+    font-style: bold;
+    text-shadow: 2px 2px 5px black;
+}
+
+
