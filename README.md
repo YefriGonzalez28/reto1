@@ -8,13 +8,13 @@
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+<h2 align="center"> Descripcion del proyecto </h2>
+<p align="left">el siguiente proyecto es un Encriptador y desencriptador en el cual el usuario puede ingresar un mensaje y encriptarlo o desencriptarlo segun sea el caso, ademas  puede copiar el mensaje encriptado.
 
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
 *[Acceso al proyecto](#acceso-proyecto)
+![image](https://github.com/YefriGonzalez28/reto1/assets/171637491/305ac7c9-7cbb-4cf5-9cd6-81f222669e63)
+
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
